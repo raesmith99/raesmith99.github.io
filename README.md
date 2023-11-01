@@ -1,7 +1,7 @@
 <html>
-<head>
-<head>
+  <head>
+    <title>
 Rachel's Webpage
-</title>
-</head>
+    </title>
+  </head>
 </html>
